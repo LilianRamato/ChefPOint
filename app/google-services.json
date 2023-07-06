@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597960051798",
+    "project_id": "chefpoint-67809",
+    "storage_bucket": "chefpoint-67809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597960051798:android:23bbc6e89830c1bfa57ff7",
+        "android_client_info": {
+          "package_name": "com.example.chefpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597960051798-8u759fomijhgedab4e63c67goolkp5jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvduDiQHo3hiffglLrgnYMYciobkRzypw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597960051798-8u759fomijhgedab4e63c67goolkp5jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
